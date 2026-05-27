@@ -2,7 +2,7 @@ batch_size: 64
 epochs: 75
 lr: 0.00001
 num_attack_traces: 3000
-train: false
+train: true
 test: true
 
 datapath: ASCAD.h5
