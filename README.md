@@ -24,6 +24,7 @@ project/
 ├── train_model.py
 ├── test_model.py
 ├── datafactory.py
+├── plot.py
 │
 ├── config.yaml
 ├── requirements.txt
